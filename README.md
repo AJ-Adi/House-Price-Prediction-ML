@@ -45,9 +45,6 @@ The dataset `mumbai.csv` contains various features like:
 
 ## 🚀 How to Run  
 
-
-
-```sh
 1️⃣ Clone the repository 
 
 git clone https://github.com/yourusername/House-Price-Prediction-ML.git
@@ -64,14 +61,14 @@ python app.py
 
 The API will be available at http://127.0.0.1:5000/
 
-🛠 Model Deployment
+## 🛠 Model Deployment
 
 The trained model (mumbai.pickle) is loaded in the Flask app (app.py) to serve predictions via an API.
 
-🤝 Contributing
+## 🤝 Contributing
 
 Feel free to fork this repo and improve the model!
 
-📞 Contact
+## 📞 Contact
 
 For any questions, feel free to contact me on Discord - **theaj.**
