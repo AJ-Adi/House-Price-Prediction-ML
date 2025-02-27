@@ -1,4 +1,4 @@
-# **🏡 House Price Prediction - Machine Learning** 
+# 🏡 House Price Prediction - Machine Learning
 
 A machine learning model to predict house prices based on various features. This project uses data from Mumbai and applies regression techniques to estimate house prices.  
 
@@ -45,9 +45,10 @@ The dataset `mumbai.csv` contains various features like:
 
 ## 🚀 How to Run  
 
-1️⃣ **Clone the repository**  
+
 
 ```sh
+1️⃣ Clone the repository 
 
 git clone https://github.com/yourusername/House-Price-Prediction-ML.git
 
