@@ -74,4 +74,4 @@ Feel free to fork this repo and improve the model!
 
 📞 Contact
 
-For any questions, reach out to your email or Discord.
+For any questions, reach out to my email or Discord.
